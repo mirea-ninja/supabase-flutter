@@ -16,6 +16,7 @@ enum Provider {
   twitch,
   twitter,
   workos,
+  mirea,
 }
 
 extension ProviderName on Provider {
